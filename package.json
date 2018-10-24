@@ -1,0 +1,27 @@
+{
+  "name": "zad.14.8-wyszukiwarka-gifow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalgorzataRatajczyk/zad.14.8-wyszukiwarka_gif-w.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalgorzataRatajczyk/zad.14.8-wyszukiwarka_gif-w/issues"
+  },
+  "homepage": "https://github.com/MalgorzataRatajczyk/zad.14.8-wyszukiwarka_gif-w#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1",
+    "nodemon": "^1.18.4"
+  }
+}
